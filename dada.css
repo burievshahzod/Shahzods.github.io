@@ -1,0 +1,74 @@
+body{
+margin:0;
+padding:0;
+background-color:#E7EE09;
+
+
+}
+.img{position: center;
+border-image: 20px solid white;
+
+}
+
+
+.hero{
+
+	text-align: center;
+	color:black;
+	font-family: Orator STD;
+
+
+
+}
+
+p{
+
+	color:black;
+	font-family: Orator STD;
+}
+.img
+
+{
+
+
+position: center;
+border-image: 20px solid white;
+
+
+}
+
+h1
+{
+text-align: center;
+position: center;
+color:black;
+	font-family: Orator STD;
+
+}
+button {   
+  
+
+background: transparent;
+
+
+
+
+border-color: transparent;
+
+
+height: 50px;
+
+width: 150px;
+
+font: bold 15px Orator STD,white;
+
+text-shadow:none;
+font-size: 30px;
+
+}
+.rights{
+
+text-align: right;
+
+}
+
