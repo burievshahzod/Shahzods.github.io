@@ -1,7 +1,7 @@
 body{
 margin:0;
 padding:0;
-background-color:#E7EE09;
+background-color:black;
 
 
 }
@@ -14,7 +14,7 @@ border-image: 20px solid white;
 .hero{
 
 	text-align: center;
-	color:black;
+	color:white;
 	font-family: Orator STD;
 
 
@@ -23,7 +23,7 @@ border-image: 20px solid white;
 
 p{
 
-	color:black;
+	color:white;
 	font-family: Orator STD;
 }
 .img
@@ -41,7 +41,7 @@ h1
 {
 text-align: center;
 position: center;
-color:black;
+color:white;
 	font-family: Orator STD;
 
 }
